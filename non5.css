@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+padding-top:10;
+margin:10;
+background-color: rgb(78, 167, 211);
+padding-top: 10;
+direction: rtl;
+}
+.c1{
+    float: right;
+
+}
+.c2{
+    text-align: center;
+}

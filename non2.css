@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    padding-top: 10;
+    margin:10;
+    background:url(img/non9.jpg) no-repeat;
+    direction:rtl;
+    
+}
+.l1{
+    background-color: rgb(200, 184, 184);
+    margin-top: 5px;
+  padding-bottom:center;
+  text-align: center;
+}
+.ll1{
+    margin-top: 5px;
+  padding-bottom:center;
+  text-align:right;
+  text
+}
+.l2{
+  background-color: rgb(217, 140, 140);
+    margin-top: 5px;
+  padding-bottom:center;
+  text-align:center;
+
+
+}
+.l3{
+  background-color: rgb(217, 140, 140);
+  margin-top: 5px;
+padding-bottom:center;
+text-align:center;
+
+}
+.ll3{
+  background: fixed;
+  
+ 
+}

@@ -1,0 +1,27 @@
+body{font-family: sans-serif;
+padding-top:10;
+margin:10;
+background-color: rgb(78, 167, 211);
+padding-top: 10;
+direction: rtl;
+.l1{
+background-color: brown;
+margin-top: 5px;
+padding-bottom:center;
+text-align: center;
+}
+
+.l2{
+background-color: brown;
+text-align: center;
+}
+
+.l3{
+background-color: brown;
+text-align: center;
+}
+.l4{
+background-color: brown;
+text-align: center;
+}
+
